@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Travel/static/css/main.78539ad2.css",
+    "main.js": "/Travel/static/js/main.b526f9db.js",
+    "static/media/resort_Costa Smeralda.jpg": "/Travel/static/media/resort_Costa Smeralda.e85cda5136207c53bff5.jpg",
+    "static/media/resort_bali.jpg": "/Travel/static/media/resort_bali.28f2603cb690a709a415.jpg",
+    "static/media/resort_Santorini.jpg": "/Travel/static/media/resort_Santorini.fda8e7146586b3fa57f5.jpg",
+    "static/media/beach_Santorini.jpg": "/Travel/static/media/beach_Santorini.a5eb5374540de0d22671.jpg",
+    "static/media/maldivesVideo.mp4": "/Travel/static/media/maldivesVideo.4b1c6a6fb879322d6587.mp4",
+    "static/media/keywest.jpg": "/Travel/static/media/keywest.1e30514942c6f50bea09.jpg",
+    "static/media/maldives2.jpg": "/Travel/static/media/maldives2.ee088b6ef17100d7f85f.jpg",
+    "static/media/borabora.jpg": "/Travel/static/media/borabora.e6c4841f299365fdfa10.jpg",
+    "static/media/borabora2.jpg": "/Travel/static/media/borabora2.726ded1de37915f83c71.jpg",
+    "static/media/maldives.jpg": "/Travel/static/media/maldives.6912181c1b1fc6c5fa6f.jpg",
+    "static/media/maldives3.jpg": "/Travel/static/media/maldives3.9c3058f9a039c5a102a8.jpg",
+    "static/media/awards-2023.png": "/Travel/static/media/awards-2023.25ca939ade30d6c504fd.png",
+    "static/media/gold.png": "/Travel/static/media/gold.42f7d8f40c346adfe3a7.png",
+    "index.html": "/Travel/index.html",
+    "main.78539ad2.css.map": "/Travel/static/css/main.78539ad2.css.map",
+    "main.b526f9db.js.map": "/Travel/static/js/main.b526f9db.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.78539ad2.css",
+    "static/js/main.b526f9db.js"
+  ]
+}
